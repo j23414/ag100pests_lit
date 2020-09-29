@@ -127,4 +127,3 @@ Schistocerca+gregaria
 Acheta+domesticus
 Gryllodes+sigillatus
 Frankliniella+occidentalis
-
