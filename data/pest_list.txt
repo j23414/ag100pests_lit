@@ -1,0 +1,134 @@
+Coleoptera	Anobiidae	Lasioderma serricorne	Cigarette beetle
+Coleoptera	Anobiidae	Stegobium paniceum	Drugstore beetle
+Coleoptera	Bostrichidae	Prostephanus truncatus	Larger grain borer
+Coleoptera	Bostrichidae	Rhyzopertha dominica	Lesser grain borer
+Coleoptera	Brentidae	Cylas formicarius	Sweet potato weevil
+Coleoptera	Buprestidae	Agrilus planipennis	Emerald ash borer
+Coleoptera	Cerambycidae	Acalolepta aesthetica	Queensland longhorned beetle
+Coleoptera	Cerambycidae	Anoplophora chinensis	Citrus long-horned beetle
+Coleoptera	Cerambycidae	Mallodon dasystomus	Hardwood stump borer
+Coleoptera	Cerambycidae	Tetropium fuscum	Brown spruce longhorn beetle
+Coleoptera	Cerambycidae	Trichoferus campestris	Velvet longhorned beetle, Mulberry longhorn beetle
+Coleoptera	Chrysomelidae	Aphthona nigriscutis	Flea beetle, Leafy spurge beetle
+Coleoptera	Chrysomelidae	Chrysomela scripta	Cottonwood leaf beetle
+Coleoptera	Chrysomelidae	Diabrotica barberi	Northern corn rootworm
+Coleoptera	Chrysomelidae	Diabrotica undecimpunctata	Southern corn rootworm
+Coleoptera	Chrysomelidae	Diorhabda carinata	Larger tamarisk beetle
+Coleoptera	Chrysomelidae	Diorhabda carinulata	Northern tamarisk beetle
+Coleoptera	Chrysomelidae	Diorhabda elongata	Mediterranean tamarisk beetle
+Coleoptera	Chrysomelidae	Diorhabda sublineata	Subtropical tamarisk beetle
+Coleoptera	Curculionidae	Anthonomus grandis	Boll weevil
+Coleoptera	Curculionidae	Anthonomus grandis thurberiae	Thurberia weevil
+Coleoptera	Curculionidae	Asynonychus godmani		Fuller rose beetle
+Coleoptera	Curculionidae	Diaprepes abbreviatus		Citrus root weevil
+Coleoptera	Curculionidae	Hypera postica			Alfalfa weevil
+Coleoptera	Curculionidae	Hypothenemus hampei		Coffee berry borer
+Coleoptera	Curculionidae	Sitophilus oryzae		Rice weevil
+Coleoptera	Dermestidae	Dermestes maculatus		Common hide beetle
+Coleoptera	Dermestidae	Trogoderma granarium		Khapra beetle
+Coleoptera	Dermestidae	Trogoderma inclusum		Larger cabinet beetle
+Coleoptera	Dermestidae	Trogoderma variabile		Warehouse beetle
+Coleoptera	Nitidulidae	Carpophilus hemipterus		Dried fruit beetle
+Coleoptera	Scarabaeidae	Oryctes rhinoceros		Coconut rhinoceros beetle
+Coleoptera	Silvanidae	Oryzaephilus mercator		Merchant grain beetle
+Coleoptera	Silvanidae	Oryzaephilus surinamensis	Saw-toothed grain beetle
+Coleoptera	Tenebrionidae	Cynaeus angustus		Larger Black Flour Beetle
+Coleoptera	Tenebrionidae	Gnatocerus cornutus		Broad-horned Flour Beetle
+Coleoptera	Tenebrionidae	Latheticus oryzae		Longheaded flour beetle
+Coleoptera	Tenebrionidae	Palorus ratzeburgii		Small-eyed flour beetle
+Coleoptera	Tenebrionidae	Tenebrio molitor		Yellow mealworm
+Coleoptera	Tenebrionidae	Tribolium brevicornis		North American flour beetle
+Coleoptera	Tenebrionidae	Tribolium castaneum		Red flour beetle
+Coleoptera	Tenebrionidae	Tribolium confusum		Confused flour beetle
+Coleoptera	Tenebrionidae	Tribolium destructor		Destructive flour beetle
+Diptera		Cecidomyiidae	Mayetiola avenae		Oat stem midge
+Diptera		Cecidomyiidae	Mayetiola destructor		Hessian fly
+Diptera		Cecidomyiidae	Mayetiola hordei		Barley stem gall midge
+Diptera		Muscidae	Haematobia irritans		Horn fly
+Diptera		Muscidae	Haematobia irritans		Horn fly
+Diptera		Muscidae	Musca autumnalis		Face fly
+Diptera		Muscidae	Musca autumnalis		Face fly
+Diptera		Muscidae	Stomoxys calcitrans		Stable fly
+Diptera		Tephritidae	Anastrepha fraterculus		South American fruit fly
+Diptera		Tephritidae	Anastrepha ludens		Mexican fruit fly
+Diptera		Tephritidae	Anastrepha ludens		Mexican fruit fly
+Diptera		Tephritidae	Anastrepha obliqua		Tephritid fruit fly pest
+Diptera		Tephritidae	Anastrepha obliqua		Tephritid fruit fly pest
+Diptera		Tephritidae	Anastrepha suspensa		Caribbean fruit fly
+Diptera		Tephritidae	Bactrocera albistrigata		Tephritid fruit fly pest
+Diptera		Tephritidae	Bactrocera correcta		Tephritid fruit fly pest
+Diptera		Tephritidae	Bactrocera dorsalis		Oriental fruit fly
+Diptera		Tephritidae	Bactrocera dorsalis		Oriental fruit fly
+Diptera		Tephritidae	Bactrocera zonata		Tephritid fruit fly pest
+Diptera		Tephritidae	Ceratitis capitata		Mediterranean fruit fly
+Diptera		Tephritidae	Strauzia longitudinalis		Sunflower maggot
+Diptera		Tephritidae	Strauzia vittigera		Sunflower maggot
+Diptera		Ulidiidae	Chaetopsis massyla		Cornsilk fly, Picture-winged fly
+Diptera		Ulidiidae	Euxesta eluta			Cornsilk fly, Picture-winged fly
+Diptera		Ulidiidae	Euxesta stigmatias		Cornsilk fly, Picture-winged fly
+Hemiptera	Aclerdidae	Nipponaclerda biwakoensis	Roseau cane scale
+Hemiptera	Aphididae	Aphis gossypii			Cotton aphid
+Hemiptera	Aphididae	Aphis fabae			Black bean aphid
+Hemiptera	Aphididae	Aphis spiraecola		Green citrus aphid
+Hemiptera	Aphididae	Eriosoma lanigerum		Woolly apple aphid
+Hemiptera	Aphididae	Macrosiphum euphorbiae		Potato aphid
+Hemiptera	Aphididae	Melanaphis sacchari		Sugarcane aphid
+Hemiptera	Aphididae	Schizaphis graminum		Greenbug
+Hemiptera	Aphididae	Sipha flava			Yellow sugarcane aphid
+Hemiptera	Coreidae	Anasa tristis			Squash bug
+Hemiptera	Coreidae	Leptoglossus clypealis		Western leaf-footed bug
+Hemiptera	Coreidae	Leptoglossus zonatus		Leaf-footed bug
+Hemiptera	Diaspididae	Aonidiella aurantii		California red scale
+Hemiptera	Fulgoridae	Lycorma delicatula		Spotted lanternfly
+Hemiptera	Geocoridae	Geocoris pallens		Western big-eyed bug
+Hemiptera	Lygaeidae	Oncopeltus fasciatus		Large milkweed bug
+Hemiptera	Miridae		Lygus hesperus			Lygus bug, Western tarnished plant bug
+Hemiptera	Miridae		Lygus lineolaris		Lygus bug
+Hemiptera	Pentatomidae	Bagrada hilaris			Bagrada bug
+Hemiptera	Pentatomidae	Euschistus servus		Brown stink bug
+Hemiptera	Pentatomidae	Halyomorpha halys		Brown marmorated stink bug
+Hemiptera	Pentatomidae	Murgantia histrionica		Harlequin bug
+Hemiptera	Pentatomidae	Nezara viridula			Southern green stink bug
+Hemiptera	Pentatomidae	Piezodorus guildinii		Red-banded stink bug
+Hemiptera	Plataspidae	Megacopta cribraria		Kudzu bug
+Hemiptera	Pseudococcidae	Planococcus ficus		Vine mealybug
+Hemiptera	Pseudococcidae	Pseudococcus maritimus		American grape mealybug
+Hemiptera	Psyllidae	Cacopsylla pyricola		Pear psylla
+Hemiptera	Scutelleridae	Eurygaster integriceps		Sunn Pest
+Hemiptera	Triozidae	Bactericera maculipennis	Bindweed psyllid
+Hemiptera	Triozidae	Leuronota fagarae		Lime psyllid
+Hymenoptera	Diprionidae	Diprion similis			Introduced pine sawfly
+Hymenoptera	Diprionidae	Neodiprion lecontei		Sawfly
+Hymenoptera	Diprionidae	Neodiprion pinetum		Sawfly
+Hymenoptera	Diprionidae	Neodiprion fabricii		Sawfly
+Hymenoptera	Diprionidae	Neodiprion virginianus		Pine sawfly
+Hymenoptera	Eulophidae	Phymastichus coffea		Parasitoid wasp of coffee berry borer
+Hymenoptera	Formicidae	Solenopsis invicta		Red imported fire ant
+Hymenoptera	Formicidae	Wasmannia auropunctata		Litte fire ant
+Hymenoptera	Vespidae	Vespa crabro			European Hornet
+Hymenoptera	Vespidae	Vespa mandarinia		Asian giant hornet
+Hymenoptera	Vespidae	Vespula pensylvanica		Western yellowjacket
+Ixodida		Argasidae	Ornithodoros turicata		Relapsing fever tick
+Ixodida		Argasidae	Ornithodoros verrucosus		Relapsing fever tick
+Ixodida		Ixodidae	Amblyomma americanum		Lone star tick
+Ixodida		Ixodidae	Amblyomma maculatum		Gulf Coast tick
+Ixodida		Ixodidae	Amblyomma variegatum		Tropical bont tick
+Ixodida		Ixodidae	Dermacentor andersoni		Rocky Mountain wood tick
+Ixodida		Ixodidae	Dermacentor variabilis		American dog tick
+Ixodida		Ixodidae	Haemaphysalis longicornis	Asian longhorned tick
+Ixodida		Ixodidae	Rhipicephalus appendiculatus	Brown ear tick
+Lepidoptera	Crambidae	Ostrinia nubilalis		European corn borer
+Lepidoptera	Gelechiidae	Anarsia lineatella		Peach twig borer
+Lepidoptera	Gelechiidae	Pectinophora gossypiella	Pink bollworm
+Lepidoptera	Noctuidae	Eudocima phalonia		Fruit piercing moth
+Lepidoptera	Noctuidae	Helicoverpa zea			Corn earworm
+Lepidoptera	Noctuidae	Striacosta albicosta		Western bean cutworm
+Lepidoptera	Pyralidae	Achroia grisella		Lesser waxmoth
+Lepidoptera	Pyralidae	Cadra cautella			Almond moth
+Lepidoptera	Pyralidae	Cadra figulilella		Raisin moth
+Lepidoptera	Pyralidae	Plodia interpunctella		Indian meal moth
+Lepidoptera	Tortricidae	Cydia pomonella			Codling moth
+Orthoptera	Acrididae	Schistocerca gregaria		Desert locust
+Orthoptera	Gryllidae	Acheta domesticus		House cricket
+Orthoptera	Gryllidae	Gryllodes sigillatus		Banded cricket
+Thysanoptera	Thripidae	Frankliniella occidentalis	Western flower thrip
